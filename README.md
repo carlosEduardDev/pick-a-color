@@ -5,9 +5,7 @@
 Esse app surgiu como um desafio a mim mesmo, após ler sobre o construtor 'EyeDropper' na documentação da [Mozzila](https://developer.mozilla.org/en-US/docs/Web/API/EyeDropper)
 
 > [!WARNING]
->
->'EyeDropper' não funciona em todos os dispositivos, principalmente em mobile.
-> Recomendo acessar a aplicação no desktop.
+> A API EyeDropper não funciona em todos os navegadores, sendo uma feature experimental e de pouco suporte.
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [Visite o site!](https://pick-a-color-steel.vercel.app/)
