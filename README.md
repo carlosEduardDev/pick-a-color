@@ -6,7 +6,8 @@ Esse app surgiu como um desafio a mim mesmo, após ler sobre o construtor 'EyeDr
 
 > [!WARNING]
 >
->'EyeDropper' não funciona em todos os dispositivos, principalmente em mobile. Recomendo acessar a aplicação no desktop.
+>'EyeDropper' não funciona em todos os dispositivos, principalmente em mobile.
+> Recomendo acessar a aplicação no desktop.
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [Visite o site!](https://pick-a-color-steel.vercel.app/)
