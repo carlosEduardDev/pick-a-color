@@ -45,4 +45,4 @@ Também foi minha primeira experiência com a lib `styled-components`.
 
 > [!NOTE]  
 >
->Esse projeto é livre, podendo pegá-lo e utilizá-lo em seus projetos e trabalhos!
+>Esse projeto é livre, podendo pegá-lo e utilizá-lo em seus trabalhos!
