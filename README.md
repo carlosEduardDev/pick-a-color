@@ -25,8 +25,8 @@ O projeto foi feito do zero com:
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-Foi até um trabalho simples mas funcional, direto ao ponto e minimalista. 
-Também foi meu primeira experiência com a lib `styled-components`.
+Foi um trabalho simples, mas funcional, direto ao ponto e minimalista. 
+Também foi minha primeira experiência com a lib `styled-components`.
 
 ## Interface do Projeto:
 
